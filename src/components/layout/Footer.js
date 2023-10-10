@@ -9,9 +9,11 @@ const Footer = () => {
         <div className="container">
           <div className="row">
             <div className="col l6 s12">
-              <h5 ><span className="highlight">Smart</span> Customer <span className="highlight">Services</span></h5>
-              <p>Providing green delivery services around the world. We serve in over 50 countries and more than 
-                500 customers worldwide. SCS is always looking to improve and expand on our green solution.
+              <h5><span >MASTER</span> SHOOPING </h5>
+              <p>Our Welcome to master shopping , your one-stop destination for all your chair needs
+                 At master shopping, we are passionate about helping you find the perfect chairs
+                 that not only enhance the comfort and aesthetics of your space but also suit your
+                 unique style and preferences.
               </p>
             </div>
             <div className="col l4 offset-l2 s12 quicklinks">
@@ -20,7 +22,7 @@ const Footer = () => {
                 <li><Link to="/"><a>Home</a></Link></li>
                 <li><Link to="/about"><a>About</a></Link></li>
                 <li><Link to="/products"><a>Products</a></Link></li>
-                <li><Link to="/review"><a>Reviews</a></Link></li>
+                {/* <li><Link to="/review"><a>Reviews</a></Link></li> */}
               </ul>
             </div>
           </div>

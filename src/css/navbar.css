@@ -3,6 +3,12 @@
     background-color: #FDFDFF !important;
  }
 
+.nav-wrapper img{
+width: 8rem;
+margin-bottom: 10rem;
+
+}
+
  .brand-logo{
     color:  #149BBB !important;
     padding-left: 1% !important;
