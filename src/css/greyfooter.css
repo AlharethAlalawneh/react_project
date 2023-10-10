@@ -22,6 +22,15 @@ body {
   color: #FDFDFF!important;
 }
 
+.col h5 span{
+  color: rgb(11, 123, 29);
+}
+
+.footer-copyright .container span{
+  color: rgb(11, 123, 29);
+
+}
+
 @media only screen and (max-width:455px){
   .right{
     display: none;
